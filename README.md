@@ -18,3 +18,4 @@ nano ZyroNexal.sh
 
 
 ./ZyroNexal.sh
+𝙕𝙮𝙧𝙤𝙉𝙚𝙭𝙖𝙡
