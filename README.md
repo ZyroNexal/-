@@ -1,5 +1,7 @@
 ZyroNexal-Github📡.sh
-pkg install tor
+
+
+pkg install tor 
 
 pkg install proxys
 
@@ -18,4 +20,6 @@ nano ZyroNexal.sh
 
 
 ./ZyroNexal.sh
+
+
 𝙕𝙮𝙧𝙤𝙉𝙚𝙭𝙖𝙡
